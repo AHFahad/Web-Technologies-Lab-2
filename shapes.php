@@ -11,11 +11,11 @@
 
 	echo"<br> <br>";
 
-	for($i2=3;$i2>0;$i2--){
-		$c =1;
-		for($j2=0;$j2<$i2;$j2++){
-			echo $c;
-			$c++;
+	for($i=3;$i>0;$i--){
+		$a =1;
+		for($j=0;$j<$i;$j++){
+			echo $a;
+			$a++;
 		}
 
 		echo "<br>";
